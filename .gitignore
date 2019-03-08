@@ -39,6 +39,7 @@
 *.apng
 
 # Multiple-image Network Graphics
+x
 *.mng
 
 # Tagged Image File Format
